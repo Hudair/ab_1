@@ -78,4 +78,4 @@
         </div>
     </div>
 </div>
-<?php /**PATH D:\laragon\www\arabcode\@core\resources\views/backend/partials/sidebar.blade.php ENDPATH**/ ?>
+<?php /**PATH D:\laragon\www\dizzcox\@core\resources\views/backend/partials/sidebar.blade.php ENDPATH**/ ?>
