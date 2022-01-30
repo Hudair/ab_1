@@ -166,4 +166,4 @@
 <?php $__env->stopSection(); ?>
 
 
-<?php echo $__env->make('backend.admin-master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /Users/dvrobin/Desktop/Sharifur-Backup/localhost/bizzcox/@core/resources/views/backend/pages/section-manage.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('backend.admin-master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /Users/dvrobin/Desktop/Sharifur-Backup/localhost/arabcode/@core/resources/views/backend/pages/section-manage.blade.php ENDPATH**/ ?>

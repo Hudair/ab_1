@@ -990,9 +990,7 @@
                                 <li class="{{active_menu('admin-home/general-settings/rss-settings')}}"><a
                                             href="{{route('admin.general.rss.feed.settings')}}">{{__('RSS Feed Settings')}}</a>
                                 </li>
-                                <li class="{{active_menu('admin-home/general-settings/license-setting')}}"><a
-                                            href="{{route('admin.general.license.settings')}}">{{__('Licence Settings')}}</a>
-                                </li>
+                               
                             </ul>
                         </li>
                     @endif

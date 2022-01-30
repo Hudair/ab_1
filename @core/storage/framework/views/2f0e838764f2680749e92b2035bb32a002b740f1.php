@@ -72,4 +72,4 @@
     </div>
 </div>
 
-<?php /**PATH /Users/dvrobin/Desktop/Sharifur-Backup/localhost/bizzcox/@core/resources/views/frontend/partials/popup.blade.php ENDPATH**/ ?>
+<?php /**PATH /Users/dvrobin/Desktop/Sharifur-Backup/localhost/arabcode/@core/resources/views/frontend/partials/popup.blade.php ENDPATH**/ ?>

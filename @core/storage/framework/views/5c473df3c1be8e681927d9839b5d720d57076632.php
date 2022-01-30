@@ -93,4 +93,4 @@
             </ul>
         </div>
     </div>
-</nav><?php /**PATH /Users/dvrobin/Desktop/Sharifur-Backup/localhost/bizzcox/@core/resources/views/frontend/partials/navbar-01.blade.php ENDPATH**/ ?>
+</nav><?php /**PATH /Users/dvrobin/Desktop/Sharifur-Backup/localhost/arabcode/@core/resources/views/frontend/partials/navbar-01.blade.php ENDPATH**/ ?>

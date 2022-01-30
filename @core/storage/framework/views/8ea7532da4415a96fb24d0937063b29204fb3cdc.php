@@ -26,4 +26,4 @@
             </div>
         </div>
     </div>
-</div><?php /**PATH /Users/dvrobin/Desktop/Sharifur-Backup/localhost/bizzcox/@core/resources/views/frontend/partials/newsletter.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /Users/dvrobin/Desktop/Sharifur-Backup/localhost/arabcode/@core/resources/views/frontend/partials/newsletter.blade.php ENDPATH**/ ?>

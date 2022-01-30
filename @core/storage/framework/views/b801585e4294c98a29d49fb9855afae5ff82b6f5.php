@@ -1,6 +1,6 @@
 <?php echo $__env->make('frontend.partials.navbar-01', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
 
-<header class="header-area-wrapper header-carousel-two bizzcox-rtl-slider">
+<header class="header-area-wrapper header-carousel-two arabcode-rtl-slider">
     <?php $__currentLoopData = $all_header_slider; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $data): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
         <div class="header-area header-bg"
              <?php echo render_background_image_markup_by_attachment_id($data->image); ?>

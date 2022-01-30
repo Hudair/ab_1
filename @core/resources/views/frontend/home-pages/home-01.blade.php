@@ -1,6 +1,6 @@
 @include('frontend.partials.navbar-01')
 
-<header class="header-area-wrapper header-carousel-two bizzcox-rtl-slider">
+<header class="header-area-wrapper header-carousel-two arabcode-rtl-slider">
     @foreach($all_header_slider as $data)
         <div class="header-area header-bg"
              {!! render_background_image_markup_by_attachment_id($data->image) !!}

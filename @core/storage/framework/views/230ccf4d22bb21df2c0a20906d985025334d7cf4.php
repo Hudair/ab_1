@@ -313,4 +313,4 @@
 
 </body>
 
-</html><?php /**PATH /Users/dvrobin/Desktop/Sharifur-Backup/localhost/bizzcox/@core/resources/views/frontend/partials/footer.blade.php ENDPATH**/ ?>
+</html><?php /**PATH /Users/dvrobin/Desktop/Sharifur-Backup/localhost/arabcode/@core/resources/views/frontend/partials/footer.blade.php ENDPATH**/ ?>

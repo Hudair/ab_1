@@ -4,4 +4,4 @@
 
     </div>
 <?php endif; ?>
-<?php /**PATH /Users/dvrobin/Desktop/Sharifur-Backup/localhost/bizzcox/@core/resources/views/backend/partials/message.blade.php ENDPATH**/ ?>
+<?php /**PATH /Users/dvrobin/Desktop/Sharifur-Backup/localhost/arabcode/@core/resources/views/backend/partials/message.blade.php ENDPATH**/ ?>
