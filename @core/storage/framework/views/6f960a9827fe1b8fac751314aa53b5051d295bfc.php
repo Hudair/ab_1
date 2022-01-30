@@ -150,4 +150,4 @@
         }(jQuery));
     </script>
 <?php $__env->stopSection(); ?>
-<?php echo $__env->make('backend.admin-master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\laragon\www\dizzcox\@core\resources\views/backend/form-builder/order-form.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('backend.admin-master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\laragon\www\arabcode\@core\resources\views/backend/form-builder/order-form.blade.php ENDPATH**/ ?>

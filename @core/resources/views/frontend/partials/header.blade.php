@@ -81,10 +81,10 @@
     @endif
     {!! get_static_option('site_header_script') !!}
 </head>
-<body class="dizzcox_version_{{getenv('XGENIOUS_DIZCOXX_VERSION')}} {{get_static_option('item_license_status')}} apps_key_{{getenv('XGENIOUS_API_KEY')}} ">
+<body class="arabcode_version_{{getenv('XGENIOUS_DIZCOXX_VERSION')}} {{get_static_option('item_license_status')}} apps_key_{{getenv('XGENIOUS_API_KEY')}} ">
 @include('frontend.partials.preloader')
 @if(auth()->guard('admin')->check())
-    <div class="dizzcox_admin_bar">
+    <div class="arabcode_admin_bar">
         <div class="left-content-part">
             <ul class="admin-links">
                 <li><a href="{{route('admin.home')}}"><i class="fas fa-tachometer-alt"></i> {{__('Dashboard')}}</a></li>

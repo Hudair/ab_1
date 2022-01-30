@@ -191,4 +191,4 @@
 </div>
 </body>
 </html>
-<?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/@core/resources/views/invoice/package-order.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/@core/resources/views/invoice/package-order.blade.php ENDPATH**/ ?>

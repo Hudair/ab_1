@@ -76,4 +76,4 @@
         </footer>
     </div>
 </body>
-</html><?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/@core/resources/views/mail/request-quote.blade.php ENDPATH**/ ?>
+</html><?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/@core/resources/views/mail/request-quote.blade.php ENDPATH**/ ?>

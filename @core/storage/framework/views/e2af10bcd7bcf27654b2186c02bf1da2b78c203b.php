@@ -137,4 +137,4 @@
         </div>
     </body>
 </html>
-<?php /**PATH D:\laragon\www\dizzcox\@core\resources\views/errors/500.blade.php ENDPATH**/ ?>
+<?php /**PATH D:\laragon\www\arabcode\@core\resources\views/errors/500.blade.php ENDPATH**/ ?>

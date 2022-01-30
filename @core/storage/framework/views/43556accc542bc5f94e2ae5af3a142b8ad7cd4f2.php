@@ -307,4 +307,4 @@
     </div>
 </body>
 </html>
-<?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/beta/@core/resources/views/mail/product-order.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/beta/@core/resources/views/mail/product-order.blade.php ENDPATH**/ ?>

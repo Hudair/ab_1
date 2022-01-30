@@ -93,4 +93,4 @@
             </ul>
         </div>
     </div>
-</nav><?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/@core/resources/views/frontend/partials/navbar-01.blade.php ENDPATH**/ ?>
+</nav><?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/@core/resources/views/frontend/partials/navbar-01.blade.php ENDPATH**/ ?>

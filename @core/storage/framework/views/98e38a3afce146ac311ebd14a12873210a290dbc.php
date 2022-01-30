@@ -67,4 +67,4 @@
             </div>
         </div>
     </div>
-</div><?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/@core/resources/views/backend/partials/media-upload/media-upload-markup.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/@core/resources/views/backend/partials/media-upload/media-upload-markup.blade.php ENDPATH**/ ?>

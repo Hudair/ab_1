@@ -384,4 +384,4 @@
 <?php endif; ?>
 <?php if(!empty(get_static_option('home_page_newsletter_section_status'))): ?>
 <?php echo $__env->make('frontend.partials.newsletter', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
-<?php endif; ?><?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/@core/resources/views/frontend/home-pages/home-02.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/@core/resources/views/frontend/home-pages/home-02.blade.php ENDPATH**/ ?>

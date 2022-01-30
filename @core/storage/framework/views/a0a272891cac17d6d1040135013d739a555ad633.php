@@ -382,4 +382,4 @@
         </div>
     </div>
 </div>
-<?php endif; ?><?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/beta/@core/resources/views/frontend/home-pages/home-08.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/beta/@core/resources/views/frontend/home-pages/home-08.blade.php ENDPATH**/ ?>

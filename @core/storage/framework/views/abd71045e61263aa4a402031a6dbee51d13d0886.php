@@ -84,10 +84,10 @@
     <?php echo get_static_option('site_header_script'); ?>
 
 </head>
-<body class="dizzcox_version_<?php echo e(getenv('XGENIOUS_DIZCOXX_VERSION')); ?> <?php echo e(get_static_option('item_license_status')); ?> apps_key_<?php echo e(getenv('XGENIOUS_API_KEY')); ?> ">
+<body class="arabcode_version_<?php echo e(getenv('XGENIOUS_DIZCOXX_VERSION')); ?> <?php echo e(get_static_option('item_license_status')); ?> apps_key_<?php echo e(getenv('XGENIOUS_API_KEY')); ?> ">
 <?php echo $__env->make('frontend.partials.preloader', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
 <?php if(auth()->guard('admin')->check()): ?>
-    <div class="dizzcox_admin_bar">
+    <div class="arabcode_admin_bar">
         <div class="left-content-part">
             <ul class="admin-links">
                 <li><a href="<?php echo e(route('admin.home')); ?>"><i class="fas fa-tachometer-alt"></i> <?php echo e(__('Dashboard')); ?></a></li>
@@ -166,7 +166,7 @@
 <?php if(preg_match('/(xgenious)/',url('/'))): ?>
 <div class="buy-now-wrap">
    <ul class="buy-list">
-       <li><a target="_blank"href="https://xgenious.com/laravel/dizzcox/doc/" data-container="body" data-toggle="popover" data-placement="left" data-content="<?php echo e(__('Documentation')); ?>"><i class="far fa-file-alt"></i></a></li>
+       <li><a target="_blank"href="https://xgenious.com/laravel/arabcode/doc/" data-container="body" data-toggle="popover" data-placement="left" data-content="<?php echo e(__('Documentation')); ?>"><i class="far fa-file-alt"></i></a></li>
        <li><a target="_blank"href="https://codecanyon.net/cart/add_items?item_ids=25986228"><i class="fas fa-shopping-cart"></i></a></li>
        <li><a target="_blank"href="https://xgenious51.freshdesk.com/"><i class="fas fa-headset"></i></a></li>
    </ul>
@@ -446,4 +446,4 @@
 
 </body>
 
-</html><?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/@core/resources/views/frontend/frontend-home-demo.blade.php ENDPATH**/ ?>
+</html><?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/@core/resources/views/frontend/frontend-home-demo.blade.php ENDPATH**/ ?>

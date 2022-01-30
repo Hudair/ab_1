@@ -193,4 +193,4 @@
 
         }
     })(jQuery);
-</script><?php /**PATH D:\laragon\www\dizzcox\@core\resources\views/backend/partials/media-upload/media-js.blade.php ENDPATH**/ ?>
+</script><?php /**PATH D:\laragon\www\arabcode\@core\resources\views/backend/partials/media-upload/media-js.blade.php ENDPATH**/ ?>

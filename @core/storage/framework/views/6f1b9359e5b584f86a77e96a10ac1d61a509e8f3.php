@@ -78,4 +78,4 @@
         </div>
     </div>
 </div>
-<?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/beta/@core/resources/views/backend/partials/sidebar.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/beta/@core/resources/views/backend/partials/sidebar.blade.php ENDPATH**/ ?>

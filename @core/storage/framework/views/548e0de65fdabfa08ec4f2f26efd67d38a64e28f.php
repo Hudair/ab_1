@@ -95,4 +95,4 @@
 </div>
 </body>
 </html>
-<?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/beta/@core/resources/views/mail/event-payment-success.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/beta/@core/resources/views/mail/event-payment-success.blade.php ENDPATH**/ ?>

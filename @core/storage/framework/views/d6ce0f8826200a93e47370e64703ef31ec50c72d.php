@@ -115,4 +115,4 @@
 
 
 
-<?php echo $__env->make('frontend.frontend-page-master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/@core/resources/views/frontend/pages/gigs/gigs.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('frontend.frontend-page-master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/@core/resources/views/frontend/pages/gigs/gigs.blade.php ENDPATH**/ ?>

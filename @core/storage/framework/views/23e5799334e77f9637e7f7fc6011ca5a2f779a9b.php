@@ -139,4 +139,4 @@
 </div>
 </body>
 </html>
-<?php /**PATH D:\laragon\www\dizzcox\@core\resources\views/frontend/pages/404.blade.php ENDPATH**/ ?>
+<?php /**PATH D:\laragon\www\arabcode\@core\resources\views/frontend/pages/404.blade.php ENDPATH**/ ?>

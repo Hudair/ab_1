@@ -44,4 +44,4 @@ style="background-image: url(<?php echo e($site_breadcrumb_bg['img_url']); ?>);"
 </section>
 <?php echo $__env->yieldContent('content'); ?>
 
-<?php echo $__env->make('frontend.partials.footer', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\laragon\www\dizzcox\@core\resources\views/frontend/frontend-page-master.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('frontend.partials.footer', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\laragon\www\arabcode\@core\resources\views/frontend/frontend-page-master.blade.php ENDPATH**/ ?>

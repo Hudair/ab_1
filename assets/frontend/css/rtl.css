@@ -480,12 +480,12 @@ div#gdpr-cookie-message #gdpr-cookie-close {
     text-align: right;
 }
 
-.dizzcox_admin_bar .left-content-part ul li + li {
+.arabcode_admin_bar .left-content-part ul li + li {
     margin-left: 0;
     margin-right: 20px;
 }
 
-.dizzcox_admin_bar .right-content-part .author-details-wrap .author-link {
+.arabcode_admin_bar .right-content-part .author-details-wrap .author-link {
     left: 0;
     right: auto;
 }

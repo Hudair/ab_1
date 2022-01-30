@@ -43,4 +43,4 @@
     </div>
 <?php $__env->stopSection(); ?>
 
-<?php echo $__env->make('backend.admin-master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/beta/@core/resources/views/backend/products/product-success-page-settings.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('backend.admin-master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/beta/@core/resources/views/backend/products/product-success-page-settings.blade.php ENDPATH**/ ?>

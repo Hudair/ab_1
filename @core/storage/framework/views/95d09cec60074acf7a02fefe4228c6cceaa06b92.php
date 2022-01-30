@@ -61,4 +61,4 @@
             </ul>
         </div>
     </div>
-</nav><?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/beta/@core/resources/views/frontend/partials/navbar-02.blade.php ENDPATH**/ ?>
+</nav><?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/beta/@core/resources/views/frontend/partials/navbar-02.blade.php ENDPATH**/ ?>

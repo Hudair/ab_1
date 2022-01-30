@@ -193,4 +193,4 @@
 
         }
     })(jQuery);
-</script><?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/beta/@core/resources/views/backend/partials/media-upload/media-js.blade.php ENDPATH**/ ?>
+</script><?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/beta/@core/resources/views/backend/partials/media-upload/media-js.blade.php ENDPATH**/ ?>

@@ -26,4 +26,4 @@
             </div>
         </div>
     </div>
-</div><?php /**PATH D:\laragon\www\dizzcox\@core\resources\views/frontend/partials/newsletter.blade.php ENDPATH**/ ?>
+</div><?php /**PATH D:\laragon\www\arabcode\@core\resources\views/frontend/partials/newsletter.blade.php ENDPATH**/ ?>

@@ -84,10 +84,10 @@
     <?php echo get_static_option('site_header_script'); ?>
 
 </head>
-<body class="dizzcox_version_<?php echo e(getenv('XGENIOUS_DIZCOXX_VERSION')); ?> <?php echo e(get_static_option('item_license_status')); ?> apps_key_<?php echo e(getenv('XGENIOUS_API_KEY')); ?> ">
+<body class="arabcode_version_<?php echo e(getenv('XGENIOUS_DIZCOXX_VERSION')); ?> <?php echo e(get_static_option('item_license_status')); ?> apps_key_<?php echo e(getenv('XGENIOUS_API_KEY')); ?> ">
 <?php echo $__env->make('frontend.partials.preloader', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
 <?php if(auth()->guard('admin')->check()): ?>
-    <div class="dizzcox_admin_bar">
+    <div class="arabcode_admin_bar">
         <div class="left-content-part">
             <ul class="admin-links">
                 <li><a href="<?php echo e(route('admin.home')); ?>"><i class="fas fa-tachometer-alt"></i> <?php echo e(__('Dashboard')); ?></a></li>
@@ -438,4 +438,4 @@
 
 </body>
 
-</html><?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/beta/@core/resources/views/frontend/frontend-home-demo.blade.php ENDPATH**/ ?>
+</html><?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/beta/@core/resources/views/frontend/frontend-home-demo.blade.php ENDPATH**/ ?>

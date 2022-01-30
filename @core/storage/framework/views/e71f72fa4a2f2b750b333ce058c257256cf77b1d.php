@@ -8,4 +8,4 @@
         }
     ?>
     <?php echo $__env->make('frontend.partials.preloader.'.$preloader, \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
-<?php endif; ?><?php /**PATH D:\laragon\www\dizzcox\@core\resources\views/frontend/partials/preloader.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH D:\laragon\www\arabcode\@core\resources\views/frontend/partials/preloader.blade.php ENDPATH**/ ?>

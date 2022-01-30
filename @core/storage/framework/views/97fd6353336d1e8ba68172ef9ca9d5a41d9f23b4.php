@@ -315,4 +315,4 @@
     </script>
 <?php $__env->stopSection(); ?>
 
-<?php echo $__env->make('backend.admin-master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/@core/resources/views/backend/products/shipping/all-shipping.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('backend.admin-master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/@core/resources/views/backend/products/shipping/all-shipping.blade.php ENDPATH**/ ?>

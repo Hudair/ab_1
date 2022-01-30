@@ -81,4 +81,4 @@
 </div>
 </body>
 </html>
-<?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/@core/resources/views/mail/contact.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/@core/resources/views/mail/contact.blade.php ENDPATH**/ ?>

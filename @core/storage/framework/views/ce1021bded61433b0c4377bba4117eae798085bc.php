@@ -305,4 +305,4 @@
         </div>
     </div>
 </div>
-<?php endif; ?><?php /**PATH D:\laragon\www\dizzcox\@core\resources\views/frontend/home-pages/home-06.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH D:\laragon\www\arabcode\@core\resources\views/frontend/home-pages/home-06.blade.php ENDPATH**/ ?>

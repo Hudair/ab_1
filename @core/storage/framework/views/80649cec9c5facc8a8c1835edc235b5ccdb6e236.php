@@ -28,4 +28,4 @@
             </div>
         </div>
     </nav>
-</div><?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/@core/resources/views/frontend/partials/navbar-06.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/@core/resources/views/frontend/partials/navbar-06.blade.php ENDPATH**/ ?>

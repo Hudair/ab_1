@@ -131,7 +131,7 @@
                 <?php echo render_footer_copyright_text(); ?>
 
             </p>
-            <p><?php echo e(__('Powered By Dizzcox v')); ?> - <?php echo e(getenv('XGENIOUS_DIZCOXX_VERSION')); ?></p>
+            <p><?php echo e(__('Powered By arabcode v')); ?> - <?php echo e(getenv('XGENIOUS_DIZCOXX_VERSION')); ?></p>
         </div>
     </footer>
 
@@ -161,4 +161,4 @@
 </body>
 
 </html>
-<?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/@core/resources/views/backend/admin-master.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/@core/resources/views/backend/admin-master.blade.php ENDPATH**/ ?>

@@ -60,4 +60,4 @@
         document.querySelector('#preloader').remove();
     }
 </script>
-<?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/@core/resources/views/frontend/partials/preloader/preloader-dynamic.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/@core/resources/views/frontend/partials/preloader/preloader-dynamic.blade.php ENDPATH**/ ?>

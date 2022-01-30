@@ -33,7 +33,7 @@
    <?php if(preg_match('/(xgenious)/',url('/'))): ?>
    <div class="buy-now-wrap">
        <ul class="buy-list">
-           <li><a target="_blank"href="https://xgenious.com/laravel/dizzcox/doc/" data-container="body" data-toggle="popover" data-placement="left" data-content="<?php echo e(__('Documentation')); ?>"><i class="far fa-file-alt"></i></a></li>
+           <li><a target="_blank"href="https://xgenious.com/laravel/arabcode/doc/" data-container="body" data-toggle="popover" data-placement="left" data-content="<?php echo e(__('Documentation')); ?>"><i class="far fa-file-alt"></i></a></li>
            <li><a target="_blank"href="https://codecanyon.net/cart/add_items?item_ids=25986228"><i class="fas fa-shopping-cart"></i></a></li>
            <li><a target="_blank"href="https://xgenious51.freshdesk.com/"><i class="fas fa-headset"></i></a></li>
        </ul>
@@ -326,4 +326,4 @@
 
 </body>
 
-</html><?php /**PATH D:\laragon\www\dizzcox\@core\resources\views/frontend/partials/footer.blade.php ENDPATH**/ ?>
+</html><?php /**PATH D:\laragon\www\arabcode\@core\resources\views/frontend/partials/footer.blade.php ENDPATH**/ ?>

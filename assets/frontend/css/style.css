@@ -769,7 +769,7 @@ code {
     padding: 25px 30px 30px 30px;
 }
 
-.widget.Dizzcox_testimonial_widget {
+.widget.arabcode_testimonial_widget {
     background-color: var(--secondary-color);
 }
 
@@ -9152,50 +9152,50 @@ span.help-info a {
     box-shadow: none;
 }
 /* admin bar */
-.dizzcox_admin_bar {
+.arabcode_admin_bar {
     background-color: #333;
     display: flex;
     justify-content: space-between;
     padding: 10px 20px;
 }
 
-.dizzcox_admin_bar .left-content-part ul li a:hover {
+.arabcode_admin_bar .left-content-part ul li a:hover {
     color: var(--main-color-one);
 }
 
-.dizzcox_admin_bar .left-content-part ul li a {
+.arabcode_admin_bar .left-content-part ul li a {
     transition: all 300ms;
 }
 
-.dizzcox_admin_bar .left-content-part ul {
+.arabcode_admin_bar .left-content-part ul {
     margin: 0;
     padding: 0;
     list-style: none;
     font-size: 14px;
 }
 
-.dizzcox_admin_bar .left-content-part ul li {
+.arabcode_admin_bar .left-content-part ul li {
     color: rgba(255, 255, 255, .8);
     display: inline-block;
 }
 
-.dizzcox_admin_bar .left-content-part ul li + li {
+.arabcode_admin_bar .left-content-part ul li + li {
     margin-left: 20px;
 }
 
 
-.dizzcox_admin_bar .right-content-part .author-details-wrap {
+.arabcode_admin_bar .right-content-part .author-details-wrap {
     position: relative;
 }
 
-.dizzcox_admin_bar .right-content-part .author-details-wrap h6 {
+.arabcode_admin_bar .right-content-part .author-details-wrap h6 {
     font-size: 14px;
     color: #fff;
     margin-bottom: 0;
     cursor: pointer;
 }
 
-.dizzcox_admin_bar .right-content-part .author-details-wrap .author-link {
+.arabcode_admin_bar .right-content-part .author-details-wrap .author-link {
     position: absolute;
     right: 0;
     top: 20px;
@@ -9210,24 +9210,24 @@ span.help-info a {
     padding-top: 10px;
 }
 
-.dizzcox_admin_bar .right-content-part .author-details-wrap .author-link a {
+.arabcode_admin_bar .right-content-part .author-details-wrap .author-link a {
     padding: 5px 20px;
     display: block;
     transition: all 300ms;
 }
 
-.dizzcox_admin_bar .right-content-part .author-details-wrap .author-link a:hover {
+.arabcode_admin_bar .right-content-part .author-details-wrap .author-link a:hover {
     color: var(--main-color-one);
 }
 
 
-.dizzcox_admin_bar .right-content-part .author-details-wrap:hover .author-link {
+.arabcode_admin_bar .right-content-part .author-details-wrap:hover .author-link {
     visibility: visible;
     opacity: 1;
 }
 
-.dizzcox_admin_bar .right-content-part .author-details-wrap h6:hover,
-.dizzcox_admin_bar .right-content-part .author-details-wrap:hover h6 {
+.arabcode_admin_bar .right-content-part .author-details-wrap h6:hover,
+.arabcode_admin_bar .right-content-part .author-details-wrap:hover h6 {
     color: var(--main-color-one);
 }
 

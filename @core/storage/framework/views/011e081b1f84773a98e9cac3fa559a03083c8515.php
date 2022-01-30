@@ -91,4 +91,4 @@
     </footer>
 </div>
 </body>
-</html><?php /**PATH /home/xgenxchi/public_html/laravel/dizzcox/@core/resources/views/mail/payment-success.blade.php ENDPATH**/ ?>
+</html><?php /**PATH /home/xgenxchi/public_html/laravel/arabcode/@core/resources/views/mail/payment-success.blade.php ENDPATH**/ ?>
