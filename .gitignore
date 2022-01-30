@@ -1,3 +1,6 @@
 /@core/vendor
 /assets/uploads
 /@core/.env
+/@core/storage/framework/cache/data
+/@core/storage/framework/views
+/@core/storage/logs
