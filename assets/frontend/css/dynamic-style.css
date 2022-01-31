@@ -1,1 +1,29 @@
 /* white you custom css code here. only css code will work */
+.menu-text {
+color: #ffffff;
+}
+.fusion-dropdown-indicator {
+color: #ffffff;
+}
+
+.menu-text:hover {
+color: #ffa737 !important;
+}
+
+.fusion-dropdown-indicator:hover {
+color: #ffa737 !important;
+}
+
+.fusion-is-sticky .menu-text {
+color: #5d5f64 !important;
+}
+
+.fusion-is-sticky .fusion-dropdown-indicator {
+color: #5d5f64 !important;
+}
+
+@media screen and (max-width:1418px) {
+.menu-text {
+color:#333;
+}
+}

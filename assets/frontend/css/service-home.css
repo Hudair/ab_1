@@ -277,7 +277,7 @@
 }
 .single-gig-item .thumb .price-wrap {
     background-color: var(--service-color);
-    color: var(--heading-color);
+    color: #ecf2f3;
 }
 .single-gig-item .thumb .order-btn {
     color: var(--service-color);

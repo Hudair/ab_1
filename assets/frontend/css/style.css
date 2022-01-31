@@ -1322,7 +1322,8 @@ code {
 }
 
 .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li.current-menu-item a {
-    color: var(--main-color-one);
+    color: #ffffff;
+
 }
 
 .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li.current-menu-item:before {
