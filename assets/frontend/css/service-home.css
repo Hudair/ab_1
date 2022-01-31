@@ -31,9 +31,8 @@
     background-color: var(--secondary-color);
 }
 
-.navbar-area.nav-fixed .nav-container,
-.navbar-area.nav-fixed {
-    background-color: #f7f7f7;
+.navbar-area.nav-fixed .nav-container, .navbar-area.nav-fixed {
+    background-color: #2e181800;
 }
 
 .header-area .title {
